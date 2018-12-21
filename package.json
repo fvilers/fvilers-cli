@@ -1,6 +1,6 @@
 {
   "name": "fvilers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A CLI to know more about me!",
   "bin": {
     "fvilers": "./bin/fvilers"
