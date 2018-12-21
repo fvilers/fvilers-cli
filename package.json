@@ -1,0 +1,16 @@
+{
+  "name": "fvilers",
+  "version": "0.0.0",
+  "description": "A CLI to know more about me!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/fvilers.git"
+  },
+  "keywords": [],
+  "author": "Fabian Vilers <fabian.vilers[at]dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/fvilers/issues"
+  },
+  "homepage": "https://github.com/fvilers/fvilers#readme"
+}
