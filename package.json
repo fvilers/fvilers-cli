@@ -2,6 +2,9 @@
   "name": "fvilers",
   "version": "0.0.0",
   "description": "A CLI to know more about me!",
+  "scripts": {
+    "start": "node ./src"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fvilers/fvilers.git"
