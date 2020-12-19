@@ -13,5 +13,5 @@ If you prefer not to install globally this CLI, you can use `npx fvilers` but No
 
 ## Note
 
-This package has been forked from [Sindre Sorhus CLI](https://github.com/sindresorhus/sindresorhus) and adapted with my data.
+This package has been forked from [Sindre Sorhus CLI](https://github.com/sindresorhus/sindresorhus-cli) and adapted with my data.
 Credits & thanks go to original developer.
