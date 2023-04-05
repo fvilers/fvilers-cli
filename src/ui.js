@@ -20,6 +20,10 @@ const items = [
     url: "https://www.dev-one.com",
   },
   {
+    label: "Mastodon",
+    url: "https://mastodon.social/@fvilers",
+  },
+  {
     label: "Twitter",
     url: "https://twitter.com/fvilers",
   },
