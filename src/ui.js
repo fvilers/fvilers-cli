@@ -55,8 +55,8 @@ module.exports = () => (
     </div>
     <div>
       <Text>
-        A belgian Entrepreneur, Software Craftsman, Amateur Photographer,
-        Father, and Gamer.
+        Entrepreneur, Software Craftsman, Amateur Photographer, Father, and
+        Gamer.
         <br />
       </Text>
     </div>
